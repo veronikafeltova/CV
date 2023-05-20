@@ -1,27 +1,46 @@
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
 
+body {
+    background-color: #FFD1DC;
+    /* Soft pink background */
+}
 
-* {font-family: 'Readex Pro';}
-
+* {
+    font-family: 'Readex Pro';
+}
 
 a {
     text-decoration: none;
-    color: white !important;
+    color: #FF69B4;
+    /* Brighter pink links */
     font-weight: 500;
 }
 
 a:hover {
-    color: #d33682 !important;
+    color: #FF1493;
+    /* Darker pink on hover */
     text-decoration: none;
 }
 
-ul {list-style-type: none;}
+ul {
+    list-style-type: none;
+}
 
 hr {
     margin-top: 0px;
     margin-bottom: 5%;
+    border-color: #FF69B4;
+    /* Pink horizontal lines */
 }
 
-#MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-header {visibility: hidden;}
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
