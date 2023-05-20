@@ -20,7 +20,8 @@ EMAIL = "johndoe@email.com"
 SOCIAL_MEDIA = {
     "OnlyFans": "https://onlyfans.com/pavel242",
     "LinkedIn": "https://www.linkedin.com/in/pavel-chocholous/",
-    "GitHub": "https://github.com/pavel242242",
+    "GitHub":
+    "https://github.com/pavel242242/digital-resume-template-streamlit",
     "Twitter": "https://twitter.com/pavel242",
 }
 PROJECTS = {
